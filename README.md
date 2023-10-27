@@ -6,6 +6,9 @@ https://www.mlsu.ac.in/econtents/16_EBOOK-7th_ed_software_engineering_a_practiti
 **For Diagram Making:**<br>
 https://app.diagrams.net/?libs=general;uml#
 
+**Tutorial Link for Draw.io:**<br>
+https://www.youtube.com/watch?v=Em_8IeJBmsQ&list=PLX6xdk86h_0xpW82Q0YkdN6xpHa6hvHjO
+
 **YouTube UML Tutorial Link:**<br>
 https://www.youtube.com/watch?v=gUEizau0-UQ&list=PLWPirh4EWFpF9Gbnu4_DdF4ITHSN6MSsk
 
