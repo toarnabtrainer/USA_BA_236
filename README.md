@@ -9,6 +9,9 @@ https://app.diagrams.net/?libs=general;uml#
 **Tutorial Link for Draw.io:**<br>
 https://www.youtube.com/watch?v=Em_8IeJBmsQ&list=PLX6xdk86h_0xpW82Q0YkdN6xpHa6hvHjO
 
+**Use draw.io Desktop to Diagram Offline Download Link**<br>
+https://www.drawio.com/blog/diagrams-offline
+
 **YouTube UML Tutorial Link:**<br>
 https://www.youtube.com/watch?v=gUEizau0-UQ&list=PLWPirh4EWFpF9Gbnu4_DdF4ITHSN6MSsk
 
